@@ -1,1 +1,2 @@
-# ObedMK-Portfolio
+# Obed-Makori.github.io
+personal portfolio

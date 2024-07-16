@@ -1,2 +1,2 @@
 # Obed-Makori.github.io
-<li href="Obed-Makori.github.io"> personal portfolio </li>
+[Personal Profile] (Obed-Makori.github.io)

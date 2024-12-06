@@ -4,7 +4,7 @@ var typeData = new Typed(".role", {
     "BI Developer",
     "ML Engineer",
     "Data Scientist",
-    "AI Enthusiast",
+    // "AI Enthusiast",
   ],
   loop: true,
   typeSpeed: 100,

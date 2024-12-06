@@ -92,7 +92,7 @@ document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
     document.title = "Portfolio | Obed";
   } else {
-    document.title = "Obed Makori!";
+    document.title = "Obed MK!";
   }
 });
 

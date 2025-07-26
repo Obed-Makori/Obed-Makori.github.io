@@ -57,7 +57,7 @@ let params={
   bodyMessage:document.getElementById("input-message").value,
   from_name: document.getElementById("input-name").value
 }
-  emailjs.send("service_0n3ny6o","template_86mv30o",params   )
+  emailjs.send("service_s3vdxoo","template_86mv30o",params   )
   .then(
     message => {
       if (message != "OK") {
@@ -77,7 +77,7 @@ let params={
         });
       }
       // Setting auto reply
-      emailjs.send("service_0n3ny6o","template_g7tvztb",params   )
+      emailjs.send("service_s3vdxoo","template_g7tvztb",params   )
     }
   );
 }
